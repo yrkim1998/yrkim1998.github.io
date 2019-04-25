@@ -1,12 +1,12 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd Brian/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->brian.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">code@brian</span>:<span id="b">~</span><span id="c">$</span> cd Brian/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">code@brian</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->brian.txt<br/><br/>
+<span id="a">@root</span>:<span id="b">~</span><span id="c">$</span><span id="k">Whats up bitches</span>". <!-- sjkfhskjf -->
 
-Whats up bitches.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My name is Brian and this is my site.</p>
-<p>This shit looks hella dope lmao</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>I can delete your system32 file from this site would you like to continue...?</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Press any key to abort.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> Deleting system 32...</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<span id="a">@root</span>:<span id="b">~</span><span id="c">$</span><!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My name is Brian and this is my site.</p>
+<span id="a">@root</span>:<span id="b">~</span><span id="c">$</span><p>This shit looks hella dope lmao</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<span id="a">@root</span>:<span id="b">~</span><span id="c">$</span><p>I can delete your system32 file from this site would you like to continue...?</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<span id="a">@root</span>:<span id="b">~</span><span id="c">$</span><p>Press any key to abort.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<span id="a">@root</span>:<span id="b">~</span><span id="c">$</span><p> Deleting system 32...</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
-Psych I can't do shit from the internet<!-- slightdelayhere-->, now fuck off
+<span id="a">@root</span>:<span id="b">~</span><span id="c">$</span>Psych I can't do shit from the internet<!-- slightdelayhere-->, now fuck off
 <p>Brian Kim, 2019</p>
